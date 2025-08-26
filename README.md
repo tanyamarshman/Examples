@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Web Page</title>
+ My First Web Page
 </head>
 <body>
   <h1>Welcome to My Website</h1>
