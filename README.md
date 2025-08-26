@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Web Page</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is a simple paragraph of text.</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
 <h2>My Skills</h2>
 <ul>
   <li>HTML</li>
